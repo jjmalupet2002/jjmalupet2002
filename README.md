@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a graduating BSIT student specializing in Cybersecurity, currently serving as the Project Manager and Lead Programmer of a capstone project that began in June 2024. Through this project, I gained hands-on experience in software development, debugging, team coordination, and project management.<br><br>Throughout my academic journey, I’ve applied skills from system administration, ethical hacking, and software quality assurance. I also enjoy debugging, researching testing tools, and exploring new technologies, and I’m eager to contribute to Koo Apps by helping deliver high-quality games.
+H! My name is Josef. I’m a graduating BSIT student specializing in Cybersecurity, currently serving as the Project Manager and Lead Programmer of a capstone project that began in June 2024. Through this project, I gained hands-on experience in software development, debugging, team coordination, and project management.<br><br>Throughout my academic journey, I’ve applied skills from system administration, ethical hacking, and software quality assurance. I also enjoy debugging, researching testing tools, and exploring new technologies, and I’m eager to contribute to Koo Apps by helping deliver high-quality games.
 
 
 ## 🌐 Socials:
